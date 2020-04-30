@@ -13,7 +13,7 @@ class Funnels extends Component {
     super(props);
     this.state = {
       page: 1,
-      perpage: 5,
+      perpage: 6,
       totalCount: 0,
       totalPages: 1,
       error_state: "",
